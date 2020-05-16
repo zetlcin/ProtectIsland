@@ -1,1 +1,2 @@
-https://www.google.com
+api4.fa8ioggaki1fa.com/esms/v1/t?id=2&opt=f2
+api6.fa8ioggaki1fa.com/esms/v1/t?id=2&opt=f2
